@@ -1,16 +1,17 @@
 {
-  "name": "pathfinder",
-  "version": "0.1.0",
-  "description": "A PhoneGap Application for managing Pathfinder sheets",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pdossantos-paloit/pathfinder.git"
-  },
-  "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-jshint": "~0.7.2",
-    "grunt-contrib-jasmine": "gruntjs/grunt-contrib-jasmine",
-    "grunt-contrib-watch": "~0.5.3",
-    "grunt-contrib-uglify": "~0.3.2"
-  }
+	"name": "pathfinder",
+	"version": "0.1.0",
+	"description": "A PhoneGap Application for managing Pathfinder sheets",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pdossantos-paloit/pathfinder.git"
+	},
+	"devDependencies": {
+		"grunt": "0.4.5",
+		"grunt-contrib-jshint": "0.10.0",
+		"grunt-contrib-jasmine": "0.8.1",
+		"grunt-contrib-watch": "0.6.1",
+		"grunt-contrib-uglify": "0.7.0",
+		"grunt-template-jasmine-requirejs": "0.2.0"
+	}
 }
